@@ -1,7 +1,7 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
     assetPrefix: '/',
-    basePath: '/CarDealerApp',
+    basePath: '/car-dealer',
     trailingSlash: true,
     output: "export",  // <=== habilita o export estático
     reactStrictMode: true,
